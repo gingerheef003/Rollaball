@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Player
+  m_Shader: {fileID: -6465566751694194690, guid: b50623c7a5be4aa9e9436df1a98d4010,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_E30A1E0C:
+        m_Texture: {fileID: 2800000, guid: e7a15fa6853f832348e52206568eec6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2F458D10: -0.5
+    - Vector1_F15A6EF8: 0.05
+    - _Amount: 0.1
+    - _Dissolve: 1
+    m_Colors:
+    - Color_4D9E1801: {r: 0, g: 0.004274368, b: 1, a: 0}
+    - Color_C349C06B: {r: 0, g: 1.037683, b: 1.890196, a: 0}
+    - Vector2_2554BF24: {r: -1, g: 1, b: 0, a: 0}

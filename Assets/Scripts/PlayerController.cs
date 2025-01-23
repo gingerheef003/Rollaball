@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
-using Cinemachine;
+using Unity.Cinemachine;
 
 public class PlayerController : MonoBehaviour
 {

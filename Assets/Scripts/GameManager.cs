@@ -2,7 +2,7 @@
 using System.Collections;
 using TMPro;
 using UnityEngine.UI;
-using Cinemachine;
+using Unity.Cinemachine;
 using UnityEngine.InputSystem;
 
 public class GameManager : MonoBehaviour
@@ -20,7 +20,7 @@ public class GameManager : MonoBehaviour
 
     public int numberOfPickups;
 
-    public CinemachineVirtualCamera vcam2;
+    public CinemachineCamera vcam2;
 
     public GameObject walls;
     public Material wallMat;
